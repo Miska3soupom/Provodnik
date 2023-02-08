@@ -1,0 +1,15 @@
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\bin\Debug\net6.0\Provodnik.exe
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\bin\Debug\net6.0\Provodnik.deps.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\bin\Debug\net6.0\Provodnik.runtimeconfig.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\bin\Debug\net6.0\Provodnik.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\bin\Debug\net6.0\Provodnik.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\refint\Provodnik.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\Provodnik.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Provodnik\Provodnik\obj\Debug\net6.0\ref\Provodnik.dll
